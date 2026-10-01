@@ -1,7 +1,6 @@
 package tema02;
 
-public class casopractico3 {
-
+public class ejercicio2 {
     public static void main(String[] args) {
         
     }
